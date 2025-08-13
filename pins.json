@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1755026660604,
+    "title": "michael",
+    "description": "St.Miachael",
+    "category": "other",
+    "imageUrl": "/uploads/1755026660596-WhatsApp-Image-2024-12-12-at-19.15.57_18540024.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Modern Living Room",
+    "description": "Contemporary design with minimalist approach",
+    "imageUrl": "/IMG/ModernLivingRoom.png",
+    "category": "design"
+  },
+  {
+    "id": 2,
+    "title": "Healthy Breakfast",
+    "description": "Start your day with nutritious meals",
+    "imageUrl": "/IMG/Breakfast.png",
+    "category": "food"
+  },
+  {
+    "id": 3,
+    "title": "Mountain Escape",
+    "description": "Breathtaking views for nature lovers",
+    "imageUrl": "/IMG/Mountain.png",
+    "category": "travel"
+  },
+  {
+    "id": 3,
+    "title":"Italian Cuisine",
+    "description":"Authentic pasta recipes",
+    "imageUrl" : "/IMG/ItalianCuisine.png",
+    "category" : "food"
+  },
+  {
+    "id": 4,
+    "title":"Portrait Photography",
+    "description":"Professional portrait techniques",
+    "imageUrl" : "/IMG/PortraitPhoto.png",
+    "category" : "photography"
+  },
+    {
+    "id": 5,
+    "title":"Abstract Painting",
+    "description":"Colorful modern art piece",
+    "imageUrl" : "/IMG/Painting.png",
+    "category" : "art"
+  }
+]
